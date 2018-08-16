@@ -5,4 +5,5 @@ public class TestFile {
 
 	// change 3 - ProgrammingSubteam making a change to see what happens if people make mergable changes
 
+	// JC's new addition.
 }
